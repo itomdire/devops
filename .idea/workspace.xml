@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fd88eb6-d276-4ae4-bc00-33a0c8976ca3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/microservices-demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,61 +25,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.14875235847938" />
-      <entry key="MS500" value="2.952276037821623" />
-      <entry key="S2" value="6.997500871531176" />
-      <entry key="S5" value="10.056940076292008" />
-      <entry key="S10" value="14.014185653091797" />
-      <entry key="S30" value="23.599912065752463" />
-      <entry key="S60" value="28.984169531088988" />
-      <entry key="M2" value="32.84298612905276" />
-      <entry key="M5" value="39.03951196585275" />
-      <entry key="M10" value="47.586159844686755" />
-      <entry key="M15" value="56.45860549683889" />
-      <entry key="M30" value="86.97913276343803" />
-      <entry key="H1" value="139.44842628885803" />
-      <entry key="H2" value="197.70803160211423" />
-      <entry key="H4" value="243.73060548020314" />
-      <entry key="D1" value="295.699968255907" />
-      <entry key="W1" value="306.1988427613782" />
+      <entry key="MS100" value="1.266348118273479" />
+      <entry key="MS500" value="2.3470835824764347" />
+      <entry key="S2" value="4.9297467708546865" />
+      <entry key="S5" value="7.5960255845305555" />
+      <entry key="S10" value="9.331150212363719" />
+      <entry key="S30" value="10.971901026684773" />
+      <entry key="S60" value="11.46580435483857" />
+      <entry key="M2" value="11.727621452553256" />
+      <entry key="M5" value="11.889748462228571" />
+      <entry key="M10" value="11.944795700074941" />
+      <entry key="M15" value="11.977296476904648" />
+      <entry key="M30" value="13.644298146826193" />
+      <entry key="H1" value="33.537255888725404" />
+      <entry key="H2" value="97.91935333856486" />
+      <entry key="H4" value="189.9412380736144" />
+      <entry key="D1" value="345.4449664864375" />
+      <entry key="W1" value="384.11057823732506" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
-      <entry key="S5" value="1.6257144709076113E-237" />
-      <entry key="S10" value="4.453404238832245E-119" />
-      <entry key="S30" value="6.001787977228528E-40" />
-      <entry key="S60" value="4.119367766080166E-20" />
-      <entry key="M2" value="3.4909613566779543E-10" />
-      <entry key="M5" value="3.3127624793502416E-4" />
-      <entry key="M10" value="0.039604915479712496" />
-      <entry key="M15" value="0.2211016810363188" />
-      <entry key="M30" value="1.3876897034721918" />
-      <entry key="H1" value="3.6604162330433687" />
-      <entry key="H2" value="6.0241266158144375" />
-      <entry key="H4" value="7.7532918241840925" />
-      <entry key="D1" value="9.583357852746774" />
-      <entry key="W1" value="9.939353376395717" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="5.039226533069217E-159" />
+      <entry key="S60" value="1.1936367534065218E-79" />
+      <entry key="M2" value="5.942454287766242E-40" />
+      <entry key="M5" value="4.098251645683989E-16" />
+      <entry key="M10" value="4.405074446364541E-8" />
+      <entry key="M15" value="2.373530511813963E-5" />
+      <entry key="M30" value="0.01437784353310358" />
+      <entry key="H1" value="0.3725899756850434" />
+      <entry key="H2" value="1.921960412869076" />
+      <entry key="H4" value="4.379366621723088" />
+      <entry key="D1" value="8.713084001783907" />
+      <entry key="W1" value="9.80509008125761" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.1183454273172175" />
-      <entry key="MS500" value="2.934104669842755" />
-      <entry key="S2" value="6.981506653203398" />
-      <entry key="S5" value="10.047086626174844" />
-      <entry key="S10" value="14.007152195954122" />
-      <entry key="S30" value="23.595854272321645" />
-      <entry key="S60" value="28.98165047616133" />
-      <entry key="M2" value="32.84153685202939" />
-      <entry key="M5" value="39.03904648906109" />
-      <entry key="M10" value="47.62499498651834" />
-      <entry key="M15" value="56.67852430443865" />
-      <entry key="M30" value="88.36425231500576" />
-      <entry key="H1" value="143.1053855747647" />
-      <entry key="H2" value="203.72909757749892" />
-      <entry key="H4" value="251.48181676755806" />
-      <entry key="D1" value="305.2828730838071" />
-      <entry key="W1" value="316.1381283140281" />
+      <entry key="MS100" value="1.2196696671963991" />
+      <entry key="MS500" value="2.3264213397013145" />
+      <entry key="S2" value="4.907271563499305" />
+      <entry key="S5" value="7.578626945779344" />
+      <entry key="S10" value="9.319916449543227" />
+      <entry key="S30" value="10.967406363733366" />
+      <entry key="S60" value="11.463448101057283" />
+      <entry key="M2" value="11.726414790789324" />
+      <entry key="M5" value="11.889258774239595" />
+      <entry key="M10" value="11.94454970992791" />
+      <entry key="M15" value="11.977155562771902" />
+      <entry key="M30" value="13.658556090635477" />
+      <entry key="H1" value="33.909399969130575" />
+      <entry key="H2" value="99.84023475019322" />
+      <entry key="H4" value="194.31934709089845" />
+      <entry key="D1" value="354.1576176202062" />
+      <entry key="W1" value="393.91559818173783" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -95,25 +91,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="microservices-demo" type="Python.DjangoServer" factoryName="Django server">
       <module name="microservices-demo" />
@@ -164,6 +160,7 @@
       <workItem from="1790583062994" duration="1017000" />
       <workItem from="1790586568501" duration="13529000" />
       <workItem from="1791184580396" duration="3469000" />
+      <workItem from="1791190946917" duration="798000" />
     </task>
     <servers />
   </component>
