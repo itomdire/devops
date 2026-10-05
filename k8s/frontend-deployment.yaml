@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: frontend-service
+  namespace: microservices
+spec:
+  replicas: 1
+
+  selector:
+    matchLabels:
+      app: frontend-service
+
+  template:
+    metadata:
+      labels:
+        app: frontend-service
+
+    spec:
+      containers:
+        - name: frontend-service
+          image: localhost:5000/microservices-frontend:1.0
+          imagePullPolicy: Always
+
+          ports:
+            - containerPort: 80

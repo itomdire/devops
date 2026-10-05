@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: bill-service
+  namespace: microservices
+spec:
+  replicas: 1
+
+  selector:
+    matchLabels:
+      app: bill-service
+
+  template:
+    metadata:
+      labels:
+        app: bill-service
+
+    spec:
+      containers:
+        - name: bill-service
+          image: localhost:5000/microservices-bill:1.0
+          imagePullPolicy: Always
+
+          ports:
+            - containerPort: 8002
